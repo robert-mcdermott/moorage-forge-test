@@ -6,3 +6,4 @@ A second line.
 From a pull request.
 A second commit in the pull request.
 Private now.
+While it was away.
