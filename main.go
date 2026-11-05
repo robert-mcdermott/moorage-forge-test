@@ -3,6 +3,8 @@
 // standard library.
 package main
 
+var oops int = "a mistake"
+
 import (
 	"context"
 	"embed"
